@@ -4,6 +4,8 @@
     The next algo solve any N queen in any NxN
     Being N > 3
 """
+
+
 import sys
 
 
